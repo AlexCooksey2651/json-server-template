@@ -1,52 +1,100 @@
 {
-  "toys": [
+  "sharks": [
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/White_shark.jpg/480px-White_shark.jpg",
+      "name": "Great White Shark",
+      "scientific_name": "Carcharodon carcharias",
+      "length": "11ft to 21ft",
+      "weight": "1,200lbs to 2,400lbs",
+      "conservation_status": "Vulnerable",
+      "fun_fact": "Although often depicted as ferocious man-eaters, Great White Sharks typically account for less than 10 fatal attacks on humans each year. Most bites occur because sharks are curious or mistake humans with other prey like turtles.",
+      "learn_more": "https://en.wikipedia.org/wiki/Great_white_shark",
+      "current_donated": 0
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Great_hammerhead2.jpg/440px-Great_hammerhead2.jpg",
+      "name": "Great Hammerhead Shark",
+      "scientific_name": "Sphyrna mokarran",
+      "length": "11ft to 15ft",
+      "weight": "500lb",
+      "conservation_status": "Critically Endangered",
+      "fun_fact": "Great hammerheads can be distinguished by the relatively straight front margin of their head, also called the cephalofoil. Other hammerhead species' heads are more arched or scalloped.",
+      "learn_more": "https://en.wikipedia.org/wiki/Great_hammerhead",
+      "current_donated": 0
     },
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Isurus_oxyrinchus_by_mark_conlin2.JPG/440px-Isurus_oxyrinchus_by_mark_conlin2.JPG",
+      "name": "Shortfin Mako Shark",
+      "scientific_name": "Isurus oxyrinchus",
+      "length": "10ft",
+      "weight": "130-300lbs",
+      "conservation_status": "Endangered",
+      "fun_fact": "Shortfin mako sharks are the fastest known shark species, reaching speeds as high as 46mph in short bursts.",
+      "learn_more": "https://en.wikipedia.org/wiki/Shortfin_mako_shark",
+      "current_donated": 0
     },
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tiger_shark.jpg/440px-Tiger_shark.jpg",
+      "name": "Tiger Shark",
+      "scientific_name": "Galeocerdo",
+      "length": "10.5ft to 14ft",
+      "weight": "385lbs to 1400lbs",
+      "conservation_status": "Near-Threatened",
+      "fun_fact": "Tiger sharks the widest food spectrum of all sharks, and have a reputation as the 'garbage-cans' of the ocean, with a wide variety of man-made objects such as license plates found in their stomachs after capture.",
+      "learn_more": "https://en.wikipedia.org/wiki/Tiger_shark",
+      "current_donated": 0
     },
     {
       "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Carcharhinus_leucas%2C_Koh_Phangan.jpg/440px-Carcharhinus_leucas%2C_Koh_Phangan.jpg",
+      "name": "Bull Shark",
+      "scientific_name": "Carcharhinus leucus",
+      "length": "7ft to 8ft",
+      "weight": "210 lbs to 290lbs",
+      "conservation_status": "Vulnerable",
+      "fun_fact": "Bull sharks are able to thrive in both salt and fresh water. Due to their wide-ranging habitat and relatively aggressive, territorial behavior, they pose a higher potential threat to humans. However, only 25 fatal attacks have been recorded since 1580.",
+      "learn_more": "https://en.wikipedia.org/wiki/Bull_shark",
+      "current_donated": 0
     },
     {
       "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Nurse_shark.jpg/440px-Nurse_shark.jpg",
+      "name": "Nurse Shark",
+      "scientific_name": "Ginglymostoma cirratum",
+      "length": "8ft",
+      "weight": "130lbs",
+      "conservation_status": "Vulnerable",
+      "fun_fact": "Nurse sharks are an extremely important species in shark research, as they respond well to capture and life in captivity. However, they are ranked fourth in documented bites on humans due to the higher number of interactions that occur in captivity. Due to their calm, sedentary nature, divers may be less cautious when interacting with them in the wild.",
+      "learn_more": "https://en.wikipedia.org/wiki/Nurse_shark",
+      "current_donated": 0
     },
     {
       "id": 7,
-      "name": "Hamm",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Similan_Dive_Center_-_great_whale_shark.jpg/440px-Similan_Dive_Center_-_great_whale_shark.jpg",
+      "name": "Whale Shark",
+      "scientific_name": "Rhincodon typus",
+      "length": "18ft to 33ft",
+      "weight": "41,000lbs",
+      "conservation_status": "Endangered",
+      "fun_fact": "The whale shark is not only the largest shark; it is the largest non-cetacean (the group which includes whales) animal. Like many whales, they feed almost exclusively on plankton and small fish and pose no threat to humans.",
+      "learn_more": "https://en.wikipedia.org/wiki/Whale_shark",
+      "current_donated": 0
     },
     {
       "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Carcharias_taurus_SI.jpg/440px-Carcharias_taurus_SI.jpg",
+      "name": "Sand Tiger Shark",
+      "scientific_name": "Carcharias taurus",
+      "length": "6.5ft to 10.5ft",
+      "weight": "190lbs to 350lbs",
+      "conservation_status": "Critically Endangered",
+      "fun_fact": "They are the most widely kept shark in public aquariums due to their tolerance for captivity. Sand tiger sharks often swim with their mouths open and teeth displayed, giving them a menacing appearance; however, they have a relatively placid demeanor",
+      "learn_more": "https://en.wikipedia.org/wiki/Sand_tiger_shark",
+      "current_donated": 0
     }
   ]
 }
