@@ -34,7 +34,7 @@
       "conservation_status": "Endangered",
       "fun_fact": "Shortfin mako sharks are the fastest known shark species, reaching speeds as high as 46mph in short bursts.",
       "learn_more": "https://en.wikipedia.org/wiki/Shortfin_mako_shark",
-      "current_donated": 0
+      "current_donated": 15
     },
     {
       "id": 4,
@@ -95,6 +95,18 @@
       "fun_fact": "They are the most widely kept shark in public aquariums due to their tolerance for captivity. Sand tiger sharks often swim with their mouths open and teeth displayed, giving them a menacing appearance; however, they have a relatively placid demeanor",
       "learn_more": "https://en.wikipedia.org/wiki/Sand_tiger_shark",
       "current_donated": 0
+    },
+    {
+      "name": "Scalloped Hammerhead Shark",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Scalloped_Hammerhead_Shark_Sphyrna_Lewini_%28226845659%29.jpeg/220px-Scalloped_Hammerhead_Shark_Sphyrna_Lewini_%28226845659%29.jpeg",
+      "scientific_name": "Sphyrna lewini",
+      "length": "5ft to 8ft",
+      "weight": "65lbs to 180lbs",
+      "conservation_status": "Critically Endangered",
+      "fun_fact": "Test fact",
+      "learn_more": "More Information Needed",
+      "current_donated": 110,
+      "id": 9
     }
   ]
 }
